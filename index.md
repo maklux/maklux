@@ -1,6 +1,7 @@
 # Welcome
 
+work in progress. 
 
 ```markdown
-(c) 2018
+2018
 ```

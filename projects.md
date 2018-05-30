@@ -1,3 +1,7 @@
 # Projects
 
-See my [GitHub Repo](https://github.com/maklux/maklux/).
+[Zorgplanner](https://www.zorgplanner.nu/)
+
+[Chirurgie](http://jacqueskayser.com/)
+
+See more in my [GitHub Repo](https://github.com/maklux/).
